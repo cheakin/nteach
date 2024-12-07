@@ -1,0 +1,16 @@
+**/node_modules
+
+docs/.vuepress/.cache
+docs/.vuepress/.temp
+docs/.vuepress/dist
+
+.DS_Store
+*.log
+/.idea/
+
+
+### IntelliJ IDEA ###
+.idea
+
+### VS Code ###
+.vscode/
