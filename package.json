@@ -1,8 +1,8 @@
 {
-  "name": "jane",
+  "name": "jan",
   "type": "module",
   "version": "1.0.0",
-  "description": "Less Is More!",
+  "description": "Less is more!",
   "packageManager": "pnpm@9.12.3",
   "author": "botboy <ckisaboy@163.com>",
   "license": "MIT",
