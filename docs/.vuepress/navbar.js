@@ -8,7 +8,6 @@ export const navbar = defineNavbarConfig([
   {
     text: '笔记',
     items: [
-      { text: '示例', link: '/notes/demo/README.md' },
       { text: '谷粒', link: '/notes/guli/README.md'}
     ]
   },
