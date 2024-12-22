@@ -8,7 +8,7 @@ import {notes} from './notes'
 export default defineThemeConfig({
   logo: '/avatar.jpg',
   // your git repo url
-  docsRepo: '/nteach',
+  docsRepo: '/nteach/',
   docsDir: 'docs',
 
   appearance: true,
