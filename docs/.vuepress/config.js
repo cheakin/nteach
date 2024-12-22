@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: '/nteach/',
   lang: 'zh-CN',
   title: 'Jan',
-  description: 'Less Is More.',
+  description: 'Less is more.',
 
   bundler: viteBundler(),
 
