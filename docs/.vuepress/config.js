@@ -3,7 +3,7 @@ import {defineUserConfig} from 'vuepress'
 import {plumeTheme} from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/nteach',
+  base: '/nteach/',
   lang: 'zh-CN',
   title: 'Jan',
   description: 'Less Is More.',
