@@ -3,6 +3,7 @@ title: Docker
 createTime: 2024/12/30 00:15:34
 tag:
   - Docker
+permalink: /article/1yyawbcq/
 ---
 
 ## 基础命令
@@ -610,11 +611,11 @@ windows下开启了远程连接且已打开端口，但还是无法连接，可�
 
    * 下载docker插件
 
-     ![image-20210811131745546](C:\Users\Miittech\AppData\Roaming\Typora\typora-user-images\image-20210811131745546.png)
+[//]: # (     ![image-20210811131745546]&#40;C:\Users\Miittech\AppData\Roaming\Typora\typora-user-images\image-20210811131745546.png&#41;)
 
    * 连接远程docker
 
-     ![image-20210811132100880](C:\Users\Miittech\AppData\Roaming\Typora\typora-user-images\image-20210811132100880.png)
+[//]: # (     ![image-20210811132100880]&#40;C:\Users\Miittech\AppData\Roaming\Typora\typora-user-images\image-20210811132100880.png&#41;)
 
 2. 编写`Dockerfile`文件，例如
 
@@ -639,17 +640,17 @@ windows下开启了远程连接且已打开端口，但还是无法连接，可�
 
    * 安装docker插件后dockerfile文件会有启动按钮
 
-     ![image-20210811132314028](C:\Users\Miittech\AppData\Roaming\Typora\typora-user-images\image-20210811132314028.png)
+[//]: # (     ![image-20210811132314028]&#40;C:\Users\Miittech\AppData\Roaming\Typora\typora-user-images\image-20210811132314028.png&#41;)
 
    * 设置启动参数
 
-     ![image-20210811132811335](C:\Users\Miittech\AppData\Roaming\Typora\typora-user-images\image-20210811132811335.png)
+[//]: # (     ![image-20210811132811335]&#40;C:\Users\Miittech\AppData\Roaming\Typora\typora-user-images\image-20210811132811335.png&#41;)
 
    * 还可以设置启动前的操作，如maven打包(`clean package -Dstaging=true`)
 
-     ![image-20210811132955436](C:\Users\Miittech\AppData\Roaming\Typora\typora-user-images\image-20210811132955436.png)
+[//]: # (     ![image-20210811132955436]&#40;C:\Users\Miittech\AppData\Roaming\Typora\typora-user-images\image-20210811132955436.png&#41;)
 
-     ![image-20210811133139817](C:\Users\Miittech\AppData\Roaming\Typora\typora-user-images\image-20210811133139817.png)
+[//]: # (     ![image-20210811133139817]&#40;C:\Users\Miittech\AppData\Roaming\Typora\typora-user-images\image-20210811133139817.png&#41;)
 
 4. 启动
 
