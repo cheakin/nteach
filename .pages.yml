@@ -1,1 +1,4 @@
 media: docs/.vuepress/public
+content:
+  - name: notes
+  - lable: notes
