@@ -18,6 +18,9 @@ content:
         type: date
         options:
           format: yyyy-MM-dd HH:mm:ss
+      - name: body
+        label: 内容
+        type: text
   - name: preview
     label: 随记
     type: collection
@@ -37,4 +40,7 @@ content:
         type: date
         options:
           format: yyyy-MM-dd HH:mm:ss
+      - name: body
+        label: 内容
+        type: text
     
