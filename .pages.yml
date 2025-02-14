@@ -21,7 +21,7 @@ content:
     type: collection
     path: 'docs/preview'
     view:
-      fields: [title, tags, createTime]
+      fields: [ title, tags, createTime ]
     fields:
       - name: title
         label: 标题
