@@ -4,4 +4,26 @@ content:
     lable: notes
     type: collection
     path: 'docs/notes'
+    view:
+      fields: [title, tags, createTime]
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: createTime
+        label: createTime
+        type: date
+  - name: preview
+    label: 随记
+    type: collection
+    path: 'docs/preview'
+    view:
+      fields: [title, tags, createTime]
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: createTime
+        label: createTime
+        type: date
     
