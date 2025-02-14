@@ -11,7 +11,7 @@ content:
         label: 标题
         type: string
       - name: tags
-        lable: 标签
+        label: 标签
         type: string
       - name: createTime
         label: 创建时间
@@ -27,7 +27,7 @@ content:
         label: 标题
         type: string
       - name: tags
-        lable: 标签
+        label: 标签
         type: select
       - name: createTime
         label: 创建时间
