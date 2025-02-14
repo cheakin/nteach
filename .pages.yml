@@ -16,6 +16,8 @@ content:
       - name: createTime
         label: 创建时间
         type: date
+        options:
+          format: yyyy-MM-dd HH:mm:ss
   - name: preview
     label: 随记
     type: collection
@@ -33,4 +35,6 @@ content:
       - name: createTime
         label: 创建时间
         type: date
+        options:
+          format: yyyy-MM-dd HH:mm:ss
     
