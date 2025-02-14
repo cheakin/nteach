@@ -22,6 +22,7 @@ content:
     path: 'docs/preview'
     view:
       fields: [ title, tags ]
+      search: [ title ]
     fields:
       - name: title
         label: 标题
