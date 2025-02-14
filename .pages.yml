@@ -1,4 +1,7 @@
 media: docs/.vuepress/public
 content:
   - name: notes
-  - lable: notes
+    lable: notes
+    type: collection
+    path: 'docs/notes'
+    
