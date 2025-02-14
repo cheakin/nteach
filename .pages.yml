@@ -5,13 +5,16 @@ content:
     type: collection
     path: 'docs/notes'
     view:
-      fields: [title, tags, createTime]
+      fields: [ title, tags, createTime ]
     fields:
       - name: title
-        label: Title
+        label: 标题
+        type: string
+      - name: tags
+        lable: 标签
         type: string
       - name: createTime
-        label: createTime
+        label: 创建时间
         type: date
   - name: preview
     label: 随记
@@ -21,9 +24,12 @@ content:
       fields: [title, tags, createTime]
     fields:
       - name: title
-        label: Title
+        label: 标题
         type: string
+      - name: tags
+        lable: 标签
+        type: select
       - name: createTime
-        label: createTime
+        label: 创建时间
         type: date
     
