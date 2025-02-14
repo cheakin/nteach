@@ -1,4 +1,7 @@
-media: docs/.vuepress/public
+media: 
+  input: docs/.vuepress/public
+  output: docs/.vuepress/public
+  name: 媒体
 content:
   - name: notes
     label: 笔记
