@@ -22,7 +22,7 @@ content:
         options:
           format: yyyy-MM-dd HH:mm:ss
       - name: body
-        label: 内容
+        label: 正文
         type: text
   - name: preview
     label: 随记
@@ -44,6 +44,6 @@ content:
         options:
           format: yyyy-MM-dd HH:mm:ss
       - name: body
-        label: 内容
+        label: 正文
         type: rich-text
     
