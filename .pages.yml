@@ -1,7 +1,7 @@
 media: docs/.vuepress/public
 content:
   - name: notes
-    lable: 笔记
+    label: 笔记
     type: collection
     path: 'docs/notes'
     view:
