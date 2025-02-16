@@ -1,7 +1,6 @@
 ---
 title: GuliMall_high (1)
-createTime: 2024/12/09 23:41:43
-permalink: /article/wt6ona7x/
+tags: SpringCloud,GuliMall,谷粒商城
 ---
 # 谷粒商城
 > 参考: [Java项目《谷粒商城》Java架构师 | 微服务 | 大型电商项目](https://www.bilibili.com/video/BV1np4y1C7Yf)
