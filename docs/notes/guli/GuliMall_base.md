@@ -1,7 +1,6 @@
 ---
 title: 谷粒商城
-createTime: 2024/12/09 22:35:41
-permalink: /article/vwzv42bb/
+tags: SpringCloud,GuliMall,谷粒商城
 ---
 # 谷粒商城
 > 参考: [Java项目《谷粒商城》Java架构师 | 微服务 | 大型电商项目](https://www.bilibili.com/video/BV1np4y1C7Yf)
