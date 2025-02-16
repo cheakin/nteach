@@ -1,7 +1,6 @@
 ---
 title: GuliMall_high (2)
-createTime: 2024/12/09 23:41:43
-permalink: /article/u0dv3q66/
+tags: SpringCloud,GuliMall,谷粒商城
 ---
 ### 商品详情
 #### 环境搭建
