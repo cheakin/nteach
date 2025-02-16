@@ -1,7 +1,6 @@
 ---
 title: Gulimall_cluster
-createTime: 2024/12/09 23:41:48
-permalink: /article/1h5grpen/
+tags: SpringCloud,GuliMall,谷粒商城
 ---
 # 谷粒商城-集群篇(cluster)  
 ![](/GuliMall/谷粒商城-微服务架构图 1.jpg)
