@@ -1,6 +1,9 @@
 ---
 title: GuliMall_high (1)
-tags: [ SpringCloud, GuliMall, 谷粒商城]
+tags:
+  - SpringCloud
+  - GuliMall
+  - 谷粒商城
 createTime: 2025/02/23 23:06:50
 permalink: /article/f1vhlpoj/
 ---
