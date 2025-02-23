@@ -2,13 +2,7 @@
 title: SpringCloud
 createTime: 2024/12/09 22:31:09
 permalink: /article/tcqqylwh/
-tags:
-  - SpringCloud
-  - GuliMall
-  - 谷粒商城
-  - 尚硅谷
-  - 雷丰阳
-  - 周阳
+tags: [ SpringCloud, GuliMall, 谷粒商城, 尚硅谷, 雷丰阳, 周阳]
 ---
 # SpringCloud
 
