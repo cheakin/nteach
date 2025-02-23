@@ -1,11 +1,7 @@
 ---
 title: Docker
-createTime: 2024/12/30 00:15:34
-tag:
-  - Docker
-permalink: /article/1yyawbcq/
+tags: docker
 ---
-
 ## 基础命令
 
 ### 镜像命令
