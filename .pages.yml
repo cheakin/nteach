@@ -15,7 +15,7 @@ content:
         type: string
       - name: tags
         label: 标签
-        type: string
+        type: collection
       - name: createTime
         label: 创建时间
         type: date
