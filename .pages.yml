@@ -35,9 +35,9 @@ content:
       - name: title
         label: 标题
         type: string
-      - name: collection
+      - name: tags
         label: 标签
-        type: string
+        type: collection
       - name: createTime
         label: 创建时间
         type: date
