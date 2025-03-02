@@ -37,7 +37,8 @@ content:
         type: string
       - name: tags
         label: 标签
-        type: text
+        type: string
+        list: true
       - name: createTime
         label: 创建时间
         type: date
